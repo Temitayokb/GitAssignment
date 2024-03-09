@@ -1,0 +1,4 @@
+Learning Git and GitHub has been a very interesting experience for me.
+Downing loading the application was my first encounter with the complexity of the process
+But with the help of my instructor and collegues, i was able to overcome it.
+Since then, i have learnt to take it one step at a time.
